@@ -3,4 +3,3 @@ description: "Automerger test description"
 runs:
   using: 'docker'
   image: 'Dockerfile'
-  main: automerge.sh
