@@ -1,6 +1,6 @@
 name: "Automerger test"
 description: "Automerger test description"
 runs:
-  using: docker
-  image: ubuntu-20.04
+  using: 'docker'
+  image: 'Dockerfile'
   main: automerge.sh
