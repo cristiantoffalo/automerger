@@ -1,0 +1,5 @@
+name: "Automerger test"
+description: "Automerger test description"
+runs:
+  using: ubuntu-20.04
+  main: automerge.sh
